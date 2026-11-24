@@ -1,0 +1,9 @@
+# make.fun kit and coordinator files — not part of the entry
+kit.zip
+kit.tar.gz
+fresh-kit/
+u-danu-how-many-tabs-do-you-have-open-d86e783d-kit/
+scheduled-prompt.txt
+system-prompt-build.txt
+user-prompt.txt
+node_modules/
